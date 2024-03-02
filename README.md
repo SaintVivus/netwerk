@@ -1,7 +1,7 @@
 # :peach: netwerk
 **A quick fix tool for those recurring pain in the ass linux network issues**
 
-Just clone netwerk to your /bin/ and run it in your .zshrc on startup to save you troubleshooting common network issues everytime you startup.
+Just clone netwerk to your /bin/ to make it easily accessible from CLI.
 
 Enjoy the assci art x
 
